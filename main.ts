@@ -159,6 +159,7 @@ namespace piano {
             case enMusic.power_up: music.beginMelody(music.builtInMelody(Melodies.PowerUp), MelodyOptions.Once); break;
             case enMusic.power_down: music.beginMelody(music.builtInMelody(Melodies.PowerDown), MelodyOptions.Once); break;
         }
+      pins.analogWritePin(AnalogPin.P0, 0)
     }
     
     //% blockId=piano_Touch block="Music Touch return"
