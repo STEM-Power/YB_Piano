@@ -6,7 +6,7 @@ load dependency
 "piano": "file:../pxt-piano"  
 */
 
-//% color="#17ecc1" weight=20 icon="\uf001"
+//% color="#5cf533" weight=20 icon="\uf8d5"
 namespace piano {
 
   
@@ -23,10 +23,9 @@ namespace piano {
         ringtone,
         funk,
         blues,
-
         birthday,
         wedding,
-        funereal,
+        funeral,
         punchline,
         baddy,
         chase,
