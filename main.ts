@@ -1,7 +1,7 @@
 ﻿
 /*
 Copyright (C): 2010-2019, Shenzhen Yahboom Tech
-modified from liusen
+modified by STEM Power Limited
 load dependency
 "piano": "file:../pxt-piano"  
 */
