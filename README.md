@@ -1,6 +1,6 @@
 # YB_Piano
 
-Extension for Yahboom YB_Piano
+Extension for Piano
 
 ## License
 
