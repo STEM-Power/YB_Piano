@@ -6,7 +6,7 @@ load dependency
 "piano": "file:../pxt-piano"  
 */
 
-//% color="#5cf533" weight=20 icon="\uf8d5"
+//% color="#5cf533" weight=20 icon="\uf001"
 namespace piano {
 
   
